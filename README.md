@@ -11,7 +11,7 @@ My observations in the simulations are as follows:
 
 1. If the linkage possibility is below a certain value, most people will develop resistance to the message eventually. Only a small fraction of people will become the advocates of the new messages and form a latent subculture. Because the messages are spread at a low rate, a small proportion of people will stay naive to the messages.
 
-2. If the linkage possibility is beyond a certain value, the public will fall into two distinct groups: the pros and the cons. This is the case of a heated debated issue: most people have definite attitudes and few people are equivocal about the issue.
+2. If the linkage possibility is beyond a certain value, the public will fall into two distinct groups: the pros and the cons. This is the case of a heated debated issue: most people have definite attitudes and few people is equivocal about the issue.
 
 3. If the linkage possibility falls into a certain range, then the attitudes of the public will alter periodically. In reality, fashion might spread like this.
 
