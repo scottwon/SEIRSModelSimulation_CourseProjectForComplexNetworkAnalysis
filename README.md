@@ -1,5 +1,5 @@
 # SEIRS Model Simulation
-This is the course project for 'Outline of Complex Network and Social Network'. In this project, I made simulations of the spreading process of messages.
+This is the course project for 'Outline of Complex Network and Social Network' and my final score for the course is 95. In this project, I made simulations of the spreading process of messages.
 
 In my model, the linkage possibility measures the average number of nodes that one node is connected with.
 
