@@ -15,3 +15,4 @@ My observations in the simulations are as follows:
 
 3. If the linkage possibility falls into a certain range, then the attitudes of the public will alter periodically. In reality, fashion might spread like this.
 
+In my simulations, a small change of linkage possibility will cause the result to alter drastically, which indicates the chaotic behavior of the system.
